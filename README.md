@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm mete ersu</h1>
 <h3 align="center">Software Automation Test Engineer</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/media/55d2ee70677214c6817f561d8901ec67.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/media/55d2ee70677214c6817f561d8901ec67.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meteersu&label=Profile%20views&color=0e75b6&style=flat" alt="meteersu" /> </p>
 
