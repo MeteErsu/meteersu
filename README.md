@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="850" src="https://i.pinimg.com/originals/02/22/e3/0222e349befcf90d28630d466b6e3aa8.gif">
+<img align="center" alt="Coding" width="850" hight ="200" src="https://i.pinimg.com/originals/02/22/e3/0222e349befcf90d28630d466b6e3aa8.gif">
 
 <h1 align="center">Hi 👋, I'm Mete Ersu</h1>
 <h3 align="center">Software Test Automation Engineer</h3>
