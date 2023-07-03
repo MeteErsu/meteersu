@@ -1,10 +1,9 @@
-<img align="center" alt="Coding" width="850" hight ="100" src="https://i.pinimg.com/originals/02/22/e3/0222e349befcf90d28630d466b6e3aa8.gif">
+<img align="center" alt="Coding" width="850" src="https://i.pinimg.com/originals/02/22/e3/0222e349befcf90d28630d466b6e3aa8.gif">
 
 <h1 align="center">Hi 👋, I'm Mete Ersu</h1>
 <h3 align="center">Software Test Automation Engineer</h3>
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/media/55d2ee70677214c6817f561d8901ec67.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meteersu&label=Profile%20views&color=0e75b6&style=flat" alt="meteersu" /> </p>
 
 - 📫 How to reach me **mete.ersu@gmail.com**
 
