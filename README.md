@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/media/55d2ee70677214c6817f561d8901ec67.gif">
 
 
-- 📫 How to reach me **mete.ersu@gmail.com**
+- 📫 How to reach me **meteersu1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
